@@ -1,4 +1,4 @@
-The Rainbow and the Unicorn
+The Rainbow and the Unicorn and the Pony
 
 Pink
 Red
@@ -10,4 +10,5 @@ Indigo
 Violet
 Unicorn
 These are the colours of the rainbow,
-and the Unicorn.
+and the Unicorn,
+and the pony.
